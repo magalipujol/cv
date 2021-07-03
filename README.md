@@ -35,6 +35,9 @@ Soy una estudiante de Bioquímica ensegundo año, con interés en la Bioinformá
 - Danza clásica y contemporánea
 - Bicicleta
 - Artes plásticas
+
+### Sobre mi
+Me apasionan la ciencia y particularmente la divulgación científica. A lo largo de mis estudios en Bioquímica descubrí que no sólo es importante el contenido de la información sino también la manera en la que es presentada a los usuarios, y eso fue lo que me hizo conocer el Desarrollo Web. Me interesa promover la accesibilidad al contenido científico a través del desarrollo de páginas web que presenten el contenido de manera didáctica e interactiva. 
   
 ### 📞 Contacto
 2477 553248  
