@@ -1,6 +1,6 @@
 
 ## Magali Pujol
-Soy una estudiante de Bioquímica en segundo año, con interés en la Bioinformática y el Desarrollo Web.
+Soy una estudiante de Bioquímica en tercer año, con interés en la Bioinformática y el Desarrollo Web.
 
 ---
 
