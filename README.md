@@ -15,7 +15,7 @@ Soy una estudiante de Bioquímica en tercer año, con interés en la Bioinformá
 ### 🧫 Experiencia
 - Ayudante de Laboratorio Entomológico - AgIdea  
   2016 - 2017  
-  Mis tareas incluían mantenimiento de las plagas de maiz, soja y algodoón, tareas de limpieza en el laboratorio y preparación de la dieta. 
+  Mis tareas incluían mantenimiento de las plagas de maiz, soja y algodón, tareas de limpieza en el laboratorio y preparación de la dieta. 
 
 ### 💻 Conocimientos
 - Curso de extracción
