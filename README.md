@@ -38,7 +38,7 @@ Soy una estudiante de Bioquímica en tercer año, con interés en la Bioinformá
 - Aprendizaje rápido  
   En Octubre (2021) realicé un challenge de front-end para para un puesto como desarrolladora Front-end en la empresa Bigbox. Para el proyecto debía usar Vue.js y Vue Router, dos tecnologías con las que nunca había trabajado. En el lapso de una semana aprendí sus fundamentos y como utilizarlas, y realicé la página que se puede ver deployada [acá](https://magalipujol.github.io/bigbox-challenge/actividades/page=1/limit=9)
 - Trabajo en equipo  
-  Entre Mayo y Octubre (2021) realicé el curso de Desarrollo Web FullStack con Java en Egg Educación, en el cual debimos trabajar durante 20 horas semanales en equipos de entre 4 y 8 personas para realizar las actividades propuestas y un trabajo final integrador. Esto mejoraró mi cooperación con los demás, lo que me llevó a ser elegida para liderar a mi equipo en el proyecto final. 
+  Entre Mayo y Octubre (2021) realicé el curso de Desarrollo Web FullStack con Java en Egg Educación, en el cual debimos trabajar durante 20 horas semanales en equipos de entre 4 y 8 personas para realizar las actividades propuestas y un trabajo final integrador. Esto mejoraró mi cooperación con los demás, lo que me permitió trabajar en equipo para realizar el trabajo integrador final. 
 
 ### 🎨 Hobbies
 - Danza clásica y contemporánea
