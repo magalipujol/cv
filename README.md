@@ -6,33 +6,43 @@ Soy una estudiante de Bioquímica en tercer año, con interés en la Bioinformá
 
 ### 📚 Estudios académicos
 
+ - **Curso de Desarrollo web Fullstack - Egg Educación**  
+ 2021 - actualidad 
+ 
+  - **Curso de Desarrollo web Fullstack - Codo a codo**  
+ 2021 - actualidad 
+ 
 - **Bioquímica - FBIOyF - UNR**  
  2018 - actualidad
 
 - **Bachiller en comunicación - ICADE**  
  2011 - 2017
+ 
+ ### 💻 Conocimientos
+- Inglés  
+  FCE(B2)
+- Lenguajes de programación:
+   - HTML
+   - CSS
+   - Javascript
+   - Java
+   - Python
+ - Frameworks y librerias:
+   - Bootstrap
+   - Vue.js
+   - Animate.css
+ - Otras tecnologías y herramientas
+   - Git y github
+   - Figma
+   - Vue Router
+  
 
 ### 🧫 Experiencia
 - Ayudante de Laboratorio Entomológico - AgIdea  
   2016 - 2017  
   Mis tareas incluían mantenimiento de las plagas de maiz, soja y algodón, tareas de limpieza en el laboratorio y preparación de la dieta. 
 
-### 💻 Conocimientos
-- Curso de extracción e inyectables
-- Inglés  
-  FCE(B2)
-- Programación  
-  Desarrollo Web  
-  HTML  
-  JavaScript  
-  CSS  
-  Bootstrap  
-  Git  
-  GitHub  
-  Vue.js
-  Vue Router
-  React.js
-  Java
+
   
 ### 🙋 Habilidades
 - Aprendizaje rápido  
