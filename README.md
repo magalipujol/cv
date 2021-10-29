@@ -30,6 +30,7 @@ Soy una estudiante de Bioquímica en tercer año, con interés en la Bioinformá
  - Frameworks y librerias:
    - Bootstrap
    - Vue.js
+   - React.js
    - Animate.css
  - Otras tecnologías y herramientas
    - Git y github
