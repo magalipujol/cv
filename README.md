@@ -50,8 +50,8 @@ Soy una estudiante de Bioquímica en tercer año, con interés en la Bioinformá
 
   
 ### 🙋 Skills
-- Fast learner
-  In Octover (2021) I did a Front-end challenge for a position as Front-end web developer at Bigbox company. For the project I had to use Vue.js and Vue Router, two technologies that I have never worked with. In one week I learned it's fundamentals and how to use them, and I made the page, which can be seen deployed [here](https://magalipujol.github.io/bigbox-challenge/actividades/page=1/limit=9). 
+- Fast learner  
+  In October (2021) I did a Front-end challenge for a position as Front-end web developer at Bigbox company. For the project I had to use Vue.js and Vue Router, two technologies that I have never worked with. In one week I learned it's fundamentals and how to use them, and I made the page, which can be seen deployed [here](https://magalipujol.github.io/bigbox-challenge/actividades/page=1/limit=9). 
   
   En Octubre (2021) realicé un challenge de front-end para para un puesto como desarrolladora Front-end en la empresa Bigbox. Para el proyecto debía usar Vue.js y Vue Router, dos tecnologías con las que nunca había trabajado. En el lapso de una semana aprendí sus fundamentos y como utilizarlas, y realicé la página que se puede ver deployada [acá](https://magalipujol.github.io/bigbox-challenge/actividades/page=1/limit=9).
 - Teamwork  
