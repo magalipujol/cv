@@ -20,7 +20,7 @@ Soy una estudiante de Bioquímica en tercer año, con interés en la Bioinformá
 - **Bachellor in Communication - ICADE**  
  2011 - 2017
  
- ### 💻 Knowledge
+### 💻 Knowledge
 - Spanish 
   Native
 - English  
